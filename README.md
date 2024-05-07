@@ -22,13 +22,13 @@ This Web application and its UI application should be live (on any platform of y
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/martintribino/arithmetic-calculator-be.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd arithmetic-calculator-be
 ```
 
 Install dependencies
